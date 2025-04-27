@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-family: Arial, sans-serif;
+  transition: background-color 1s;
+}
+
+.clock-container {
+  font-size: 3rem;
+  text-align: center;
+}
